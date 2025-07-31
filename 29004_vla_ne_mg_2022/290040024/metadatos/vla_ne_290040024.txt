@@ -1,0 +1,619 @@
+SECCIÓN 1. Identificación del conjunto de datos espaciales o producto:
+
+1.1 Título del conjunto de datos espaciales o producto: Información vectorial de localidades amanzanadas y números exteriores 2023. 290040024 (COLONIA DELICIAS).
+
+1.2 Propósito: Proporcionar a las Unidades de Estado y a la población en general, información vectorial de los números exteriores en las localidades urbanas y rurales amanzanadas, disponiendo de un insumo con información georreferenciada y actualizada con el fin de identificar y ubicar geográficamente un predio o inmueble.
+
+1.3 Descripción del conjunto de datos espaciales o producto: El producto de Información vectorial de localidades amanzanadas y números exteriores 2023 es el resultado de la compilación de información de los proyectos de Georreferenciación de Domicilios (GEODOM) del periodo del 2010 al 2016, la Cartografía Urbana y Rural (CUR) del periodo del 2017 al 2023, los Censos Económicos 2019 (CE2019), el Censo de Población y Vivienda 2020 (CPV2020), es una versión por localidad urbana y rural amanzanada.
+
+Para realizar la actualización del producto se utilizó como capas base frentes de manzana, manzana y vialidades del Marco Geoestadístico (MG), diciembre 2022 y como información complementaría la capa de Delimitación de colonias y otros asentamientos humanos 2022 y la de Códigos Postales del Servicio Postal Mexicano 2022.
+
+Su cobertura es la parte del Territorio Nacional que corresponde a 10,681 localidades urbanas y rurales de prioridad.
+
+El producto está formado por conjuntos de datos geoespaciales en formato Shape (SHP) que contienen información vectorial y tablas de atributos.
+
+El producto contiene los elementos geográficos que se definen como: Referencia de predio o inmueble, Frente de manzana, Manzana, Vialidad, Área Geoestadística Básica y Localidad, los cuales tienen una representación geográfica de punto, línea y polígono (área).
+
+Todo uso que se dé a la Información vectorial de localidades amanzanadas y números exteriores 2023 para fines distintos a los previstos para su creación será bajo responsabilidad del usuario y debería considerar todas las aclaraciones anteriores.
+
+Las capas que contiene el producto son las siguientes:
+
+Área Geoestadística Básica (AGEB): unidad territorial con propósitos de operativos censales que subdividen las Áreas Geoestadísticas Municipales (AGEM), las cuales se clasifican en dos tipos: Área Geoestadísticas Básica Urbana y Área Geoestadística Básica Rural.
+
+Frente de manzana: entidad lineal geométricamente vinculada con un lado o secuencia de lados de la manzana, la cual representa un elemento auxiliar para referir los datos geográficos y/o estadísticos de objetos espaciales que se ubican dentro de la manzana o en la vía pública.
+
+Cada Frente corresponde con una vialidad o rasgo definido que delimitan a la manzana y para su irrepetibilidad se identifica por una clave única consecutiva por manzana, además de incluir en sus atributos la clave y nombre de vialidad o tipo y nombre del rasgo definido que le corresponde y la clave de vialidad o tipo y nombre del rasgo definido de sus entrevialidades.
+
+Localidad Geoestadística: espacio geográfico edificado o acondicionado para fines habitacionales o de actividades económicas, identificado o no con un nombre que se reconoce por la Ley o la costumbre. Se clasifica en urbana y rural.
+
+Manzana Geoestadística: extensión territorial constituida por uno o más inmuebles de uso habitacional, comercial, industrial, de servicios o baldíos; generalmente se puede rodear, está delimitada por vialidades y en ocasiones complementada en algunos de sus lados por un rasgo definido.
+
+Referencia de predio o inmueble: Punto que ubica e identifica a un predio o inmueble y contiene el número exterior.
+Vialidad: superficie del terreno destinada para el tránsito vehicular y/o peatonal.
+
+1.4 Idioma del conjunto de datos espaciales o producto: ES - Español.
+
+1.5 Categoría del tema del conjunto de datos espaciales o producto: 
+
+     1.5.1 Tema principal del conjunto de datos espaciales o producto: 11. Localización: Información posicional y servicios.  
+
+     1.5.2 Grupo de datos del conjunto de datos espaciales o producto: 4. Grupo de datos topográficos: Subdivisión de la Infraestructura de Datos Espaciales de México que contiene elementos que caracterizan parte o toda la superficie  terrestre, constituidos por datos referidos a los componentes físicos del paisaje y de los correspondientes a objetos de infraestructura humana. Particularizan un terreno en su configuración superficial, permitiendo la identificación de la disposición y forma de sus partes y lo distinguen de otros semejantes.
+
+1.6 Palabra clave: Área Geoestadística Básica.
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Frentes de manzana.
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Localidad.
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Manzana.
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Referencia de predio o inmueble.
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Vialidad.
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.8 Nombre del tesauro: Diccionario de datos de localidades amanzanadas y números exteriores.
+
+1.9 Edición:  
+
+1.10 Forma de presentación de los datos espaciales:   5. Mapa digital: Mapa representado en formato raster o vector.
+
+1.11 Enlace en línea:
+
+     1.11.1 URL del recurso: https://www.inegi.org.mx/
+
+     1.11.2 Descripción del acceso al recurso: Página web donde se encuentra la información para obtener el recurso con base a las políticas institucionales y de los centros de información autorizados.
+
+1.12 Frecuencia de mantenimiento y actualización:   7. Anualmente: Los datos se actualizan cada año.
+
+1.13 Conjunto de caracteres:   4. Utf8: Formato de Transferencia UCS de tamaño variable de 8-bit, basado en ISO/IEC 10646.
+
+1.14 Nombre del archivo gráfico: vla_numeros_exteriores.jpg
+
+1.15 Uso específico: Uso 1 (Externo): las Instituciones del sector Público, Correos de México, Servicio de Administración Tributaria (SAT), el Instituto Nacional Electoral (INE), la Comisión Federal de Electricidad (CFE), el Instituto Mexicano del Seguro Social (IMSS), Unidades del Estado y el público en general. Lo utilizan en la búsqueda de la ubicación e identificación del domicilio de un predio o inmueble, empleando sistemas de información geográfica mediante las seis capas que conforman el producto, por medio de la consulta de los datos de vialidad, número exterior, colonia, código postal y localidad, que son los atributos principales para realizar la búsqueda. Obteniendo la ubicación del predio o inmueble y los atributos del domicilio que lo caracterizan. Los usuarios son todos aquellos que requieran realizar una búsqueda de alguna dirección y ubicación de un predio o inmueble.
+
+Uso 2 (Externo): instituciones académicas y de investigación utilizan los Números Exteriores para realizar análisis espaciales relacionados a niveles de urbanización. Empleando la cartografía de los Números Exteriores incorporándola a sistemas de información geográfica en combinación con otras capas de información, se puede cuantificar, identificar y ubicar inmuebles, permitiendo obtener mapas temáticos que son de utilidad para las instancias de gobierno encargadas de programas del desarrollo urbano y territorial. Así mismo, apoyar a proyectos de investigación en la materia.
+
+
+SECCIÓN 2. Fechas relacionadas con el conjunto de datos espaciales o producto:
+
+2.1 Fechas y eventos:
+
+     2.1.1 Fecha de referencia del conjunto de datos espaciales o producto: 2023-10-02
+
+     2.1.2 Tipo de fecha: 1. Creación: Indicador  de la fecha que especifica cuando fue creado el recurso.
+
+     2.1.1 Fecha de referencia del conjunto de datos espaciales o producto: 2023-10-16
+
+     2.1.2 Tipo de fecha: 3. Revisión: Identificador de la fecha que especifica cuando el recurso fue examinado o re-examinado y mejorado o corregido.
+
+     2.1.1 Fecha de referencia del conjunto de datos espaciales o producto: 2023-12-15
+
+     2.1.2 Tipo de fecha: 2. Publicación: Indicador de la fecha que especifica cuando el recurso fue publicado.
+
+2.2 Fechas de los insumos tomados para la elaboración del producto o conjunto de datos espaciales:
+
+     2.2.1 Fecha de creación de los insumos: 2016-12-30
+
+     2.2.2 Fecha de inicio de verificación de campo: 
+
+     2.2.3 Fecha final de verificación de campo: 
+
+     2.2.4 Nombre del insumo: Georreferenciación de Domicilios.
+
+     2.2.1 Fecha de creación de los insumos: 2019-12-31
+
+     2.2.2 Fecha de inicio de verificación de campo: 
+
+     2.2.3 Fecha final de verificación de campo: 
+
+     2.2.4 Nombre del insumo: Censos Económicos.
+
+     2.2.1 Fecha de creación de los insumos: 2020-12-31
+
+     2.2.2 Fecha de inicio de verificación de campo: 
+
+     2.2.3 Fecha final de verificación de campo: 
+
+     2.2.4 Nombre del insumo: Censo de Población y Vivienda.
+
+     2.2.1 Fecha de creación de los insumos: 2022-12-30
+
+     2.2.2 Fecha de inicio de verificación de campo: 
+
+     2.2.3 Fecha final de verificación de campo: 
+
+     2.2.4 Nombre del insumo: Servicio Postal Mexicano.
+
+     2.2.1 Fecha de creación de los insumos: 2022-12-30
+
+     2.2.2 Fecha de inicio de verificación de campo: 
+
+     2.2.3 Fecha final de verificación de campo: 
+
+     2.2.4 Nombre del insumo: Marco Geoestadística.
+
+     2.2.1 Fecha de creación de los insumos: 2022-12-30
+
+     2.2.2 Fecha de inicio de verificación de campo: 
+
+     2.2.3 Fecha final de verificación de campo: 
+
+     2.2.4 Nombre del insumo: Delimitación de colonias y otros asentamientos humanos.
+
+     2.2.1 Fecha de creación de los insumos: 2023-09-29
+
+     2.2.2 Fecha de inicio de verificación de campo: 
+
+     2.2.3 Fecha final de verificación de campo: 
+
+     2.2.4 Nombre del insumo: Ajuste y actualizaciones cartográficas a las referencias del predio o inmueble (número exterior) durante el período de marzo 2022 a septiembre 2023.
+
+     2.2.1 Fecha de creación de los insumos: 2023-09-29
+
+     2.2.2 Fecha de inicio de verificación de campo: 
+
+     2.2.3 Fecha final de verificación de campo: 
+
+     2.2.4 Nombre del insumo: Cartografía Urbana y Rural.
+
+SECCIÓN 3. Unidad del estado responsable del conjunto de datos espaciales o producto:
+
+3.1 Nombre de la persona de contacto: Mtro. J. Armando Aguiar Rodríguez.
+
+3.2 Nombre de la organización: Instituto Nacional de Estadística y Geografía - INEGI.
+
+3.3 Puesto del contacto: Director de Servicios de Información.
+
+3.4 Teléfono: 449 910 5300 Ext. 31 5486 y 31 5920 Lada 800 111 4634.
+
+3.5 Fax: 
+
+3.6 Dirección: Avenida Héroe de Nacozari Sur 2301. Fraccionamiento Jardines del Parque, C.P. 20276. Aguascalientes, Aguascalientes. Aguascalientes. Entre Calle INEGI, Avenida del Lago y Avenida Paseo de las Garzas.
+
+3.7 Ciudad: Aguascalientes.
+
+3.8 Área administrativa: Aguascalientes.
+
+3.9 Código postal: 20276
+
+3.10 País: México.
+
+3.11 Dirección de correo electrónico del contacto: atencion.usuarios@inegi.org.mx
+
+3.12 Enlace en línea (dirección de Internet de referencia): https://www.inegi.org.mx/
+
+3.13 Rol:   5. Distribuidor: Parte que distribuye el recurso.
+
+
+SECCIÓN 4. Localización geográfica del conjunto de datos espaciales o producto:
+
+4.1 Localización geográfica del conjunto de datos espaciales o producto:
+
+     4.1.1 Coordenada límite al oeste: -97.77512626
+
+     4.1.2 Coordenada límite al este: -97.76975230
+
+     4.1.3 Coordenada límite al sur: 19.36244065
+
+     4.1.4 Coordenada límite al norte: 19.36787648
+
+4.2 Tipo de representación espacial: 1. Vector: Los datos vectoriales se utilizan para representar datos espaciales.
+
+SECCIÓN 5. Sistema de referencia:
+
+5.1 Sistema de Referencia Horizontal:
+
+     5.1.1 Coordenadas Geográficas:
+
+          5.1.1.1 Resolución de latitud:
+
+          5.1.1.2 Resolución de longitud:
+
+          5.1.1.3 Unidades de coordenadas geográficas:
+
+     5.1.2 Coordenadas Planas:
+
+          5.1.2.1 Proyección Cartográfica:
+
+               5.1.2.1.1 Cónica Conforme de Lambert:
+
+                    5.1.2.1.1.1 Paralelo estándar: 17.5
+
+                    5.1.2.1.1.1 Paralelo estándar: 29.5
+
+                    5.1.2.1.1.2 Longitud del meridiano central: -102.0
+
+                    5.1.2.1.1.3 Latitud del origen de proyección: 12.0
+
+                    5.1.2.1.1.4 Falso este: 2500000.0
+
+                    5.1.2.1.1.5 Falso norte: 0.0
+
+               5.1.2.1.2 Transversa de Mercator:
+
+                    5.1.2.1.2.1 Factor de escala en el meridiano central:  
+
+                    5.1.2.1.2.2 Longitud del meridiano central:  
+
+                    5.1.2.1.2.3 Latitud del origen de proyección:  
+
+                    5.1.2.1.2.4 Falso este:  
+
+                    5.1.2.1.2.5 Falso norte:  
+
+               5.1.2.1.3 Mercator:
+
+                    5.1.2.1.3.1 Paralelo estándar:  
+
+                    5.1.2.1.3.2 Factor de escala en el ecuador:  
+
+                    5.1.2.1.3.3 Longitud del meridiano central:  
+
+                    5.1.2.1.3.4 Falso este:  
+
+                    5.1.2.1.3.5 Falso norte:  
+
+               5.1.2.1.4 Transversa Modificada Ejidal:
+
+                    5.1.2.1.4.1 Factor de escala en el meridiano central:  
+
+                    5.1.2.1.4.2 Longitud del meridiano central:  
+
+                    5.1.2.1.4.3 Latitud del origen de proyección:  
+
+                    5.1.2.1.4.4 Falso este:  
+
+                    5.1.2.1.4.5 Falso norte:  
+
+               5.1.2.1.5 Definición de otra proyección: 
+
+          5.1.2.2 Sistema de Coordenadas de Cuadrícula:
+
+               5.1.2.2.1 Universal Transversa de Mercator:
+
+                    5.1.2.2.1.1 Número de zona UTM:
+
+                    5.1.2.2.1.2 Factor de escala en el meridiano central:
+
+                    5.1.2.2.1.3 Longitud del meridiano central:
+
+                    5.1.2.2.1.4 Latitud del origen de proyección:
+
+                    5.1.2.2.1.5 Falso este:
+
+                    5.1.2.2.1.6 Falso norte:
+
+          5.1.2.3 Plana Local:
+
+               5.1.2.3.1 Descripción de la Plana Local:
+
+               5.1.2.3.2 Información de Georreferencia de la Plana Local:
+
+          5.1.2.4 Información de coordenadas planas:
+
+               5.1.2.4.1 Método codificado de coordenada plana: Par coordenado.
+
+               5.1.2.4.2 Representación de coordenadas:
+
+                    5.1.2.4.2.1 Resolución de abscisa: 0.00000001
+
+                    5.1.2.4.2.2 Resolución de ordenada: 0.00000001
+
+               5.1.2.4.3 Representación de distancia y rumbo:
+
+                    5.1.2.4.3.1 Resolución de distancia:
+
+                    5.1.2.4.3.2 Resolución de rumbo:
+
+                    5.1.2.4.3.3 Unidades de rumbo:
+
+                    5.1.2.4.3.4 Dirección del rumbo de referencia:
+
+                    5.1.2.4.3.5 Meridiano del rumbo de referencia:
+
+               5.1.2.4.4 Unidades de distancia plana: Metros.
+
+     5.1.3 Coordenadas Locales:
+
+          5.1.3.1 Descripción Local:
+
+          5.1.3.2 Información de Georreferenciación Local:
+
+     5.1.4 Modelo geodésico:
+
+5.1.4.1 Nombre del datum horizontal: ITRF08 época 2010.0.
+
+          5.1.4.2 Nombre del elipsoide: Sistema Geodésico de Referencia de 1980 (GRS80).
+
+          5.1.4.3 Semieje mayor: 6378137.0
+
+          5.1.4.4 Factor de denominador de achatamiento: 298.2572221
+
+5.2 Sistema de Referencia Vertical:
+
+     5.2.1 Definición del sistema de altitud:
+
+          5.2.1.1 Nombre del datum de altitud: 
+
+          5.2.1.2 Resolución de altitud: 
+
+          5.2.1.3 Unidades de distancia de altitud: 
+
+          5.2.1.4 Método codificado de altitud:  
+
+     5.2.2 Definición del sistema de profundidad:
+
+          5.2.2.1 Nombre del datum de profundidad: 
+
+          5.2.2.2 Resolución de profundidad: 
+
+          5.2.2.3 Unidades de distancia de profundidad: 
+
+          5.2.2.4 Método codificado de profundidad:  
+
+
+SECCIÓN 6. Calidad de la información:
+
+6.1 Alcance o ámbito:
+
+     6.1.1 Nivel: 17. Producto: Información aplicada al producto.
+
+6.2 Reporte:
+
+     6.2.1 Completitud:
+
+          6.2.1.1 Nombre del subcriterio de calidad evaluado:
+
+               6.2.1.1.1 Nombre de la prueba:
+
+               6.2.1.1.2 Descripción de la prueba:
+
+               6.2.1.1.3 Resultado:
+
+                    6.2.1.1.3.1 Resultado cuantitativo:
+
+                         6.2.1.1.3.1.1 Unidad de valor:
+
+                         6.2.1.1.3.1.2 Valor:
+
+     6.2.2 Consistencia lógica:
+
+          6.2.2.1 Nombre del subcriterio de calidad evaluado:
+
+               6.2.2.1.1 Nombre de la prueba:
+
+               6.2.2.1.2 Descripción de la prueba:
+
+               6.2.2.1.3 Resultado:
+
+                    6.2.2.1.3.1 Resultado cuantitativo:
+
+                         6.2.2.1.3.1.1 Unidad de valor:
+
+                         6.2.2.1.3.1.2 Valor:
+
+     6.2.3 Exactitud posicional:
+
+          6.2.3.1 Nombre del subcriterio de calidad evaluado:
+
+               6.2.3.1.1 Nombre de la prueba:
+
+               6.2.3.1.2 Descripción de la prueba:
+
+               6.2.3.1.3 Resultado:
+
+                    6.2.3.1.3.1 Resultado cuantitativo:
+
+                         6.2.3.1.3.1.1 Unidad de valor:
+
+                         6.2.3.1.3.1.2 Valor:
+
+     6.2.4 Exactitud temporal:
+
+          6.2.4.1 Nombre del subcriterio de calidad evaluado:
+
+               6.2.4.1.1 Nombre de la prueba:
+
+               6.2.4.1.2 Descripción de la prueba:
+
+               6.2.4.1.3 Resultado:
+
+                    6.2.4.1.3.1 Resultado cuantitativo:
+
+                         6.2.4.1.3.1.1 Unidad de valor:
+
+                         6.2.4.1.3.1.2 Valor:
+
+     6.2.5 Exactitud temática:
+
+          6.2.5.1 Nombre del subcriterio de calidad evaluado:
+
+               6.2.5.1.1 Nombre de la prueba:
+
+               6.2.5.1.2 Descripción de la prueba:
+
+               6.2.5.1.3 Resultado:
+
+                    6.2.5.1.3.1 Resultado cuantitativo:
+
+                         6.2.5.1.3.1.1 Unidad de valor:
+
+                         6.2.5.1.3.1.2 Valor:
+
+6.3 Linaje:
+
+     6.3.1 Enunciado: La versión de la Información vectorial de localidades amanzanadas y números exteriores 2023 es el resultado de la actualización de los números exteriores de Georreferenciación de Domicilios (GEODOM) 2010-2016 y la integración de información de la Cartográfica Urbana y Rural (CUR) 2017-2023, de los Censos Económicos 2019 (CE2019) y del Censo de Población y Vivienda 2020 (CPyV2020). Para realizar la integración de la información de la CUR, los CE2019 y el CPyV2020 a la base cartográfica de Números Exteriores se hizo un tratamiento de la información para identificar los atributos con información importante que actualice la base de datos, después se hace el procesamiento para estructurar la información con que se va a actualizar la base de datos. 
+
+La actualización de ajustar las referencias de puntos (números exteriores) al frente de manzana consistió en realizar la actividad en gabinete utilizando imágenes de satélite y vista de calle garantizando que cada punto esté ubicado al frente del predio o inmueble que corresponda, además de los aplicativos , también se actualizaron los atributos; en caso de que no tener elementos para garantizar tanto la ubicación al frente del predio o inmueble como la captación de los atributos, estos registros se envían a operativos de campo para captar la información que sea necesaria, además de captar lo que no se tiene en la cartografía. Para realizar esta actividad se generaron guías con el procedimiento y el diccionario de datos. Para realizar el ajuste de los puntos al frente de manzana se utilizó como mapa base la cartografía del Marco Geoestadístico, diciembre 2022 utilizando las capas de manzana, frente de manzana, vialidad, AGEB, y localidades. El cubrimiento que se consideró fue de 10,681 localidades urbanas y rurales amanzanadas. 
+
+Oficinas centrales genera la normatividad, define el proceso y el programa de trabajo, asimismo, se encarga de la integración y generación de los archivos vectoriales. Las direcciones regionales validan, asesoran y supervisan las actividades. Por último, las coordinaciones estatales se encargan del ajuste de puntos al frente y de la captación de atributos en gabinete y campo.
+
+     6.3.2 Pasos del proceso:
+
+          6.3.2.1 Descripción: 1. Planeación y análisis de información: para comenzar la actualización de las referencias, se generó una base de datos de Números Exteriores, esta base contiene los objetos espaciales (referencias) de los proyectos Georreferenciación de Domicilios (GEODOM) 2010 a 2016 y Cartografía Urbana y Rural (CUR) 2017 a 2023, además de las 10, 681 localidades de prioridad y las capas base AGEB, Frente de manzana, Manzana, Vialidad y Localidad del Marco geoestadístico (MG) de diciembre 2022. 
+
+Con los insumos, referencias y frentes de manzana de la base de datos se realizó una intersección, del resultado de la información que no está ajustada al frente de manzana, se generan las GDB por entidad federativa y esta es la carga de trabajo que el personal de las Coordinaciones Estatales tendrá que llevar a cabo el proceso de ajuste que consiste en la intersección de referencias geográficas (puntos) a la línea del frente de manzana, con esto también podrá hacer la planeación. 
+
+2. Proceso de ajuste y actualización de referencias geográficas de predio o inmueble al frente de manzana: para realizar la actividad de ajuste y actualización las referencias geográficas al frente de manzana, se generó un manual donde se describe el procedimiento para ajustar las referencias geográficas del proyecto de GEODOM o utilizar los insumos de los CE2019 o CPyV2020 como complemento para la actualización. Esta actividad la realiza el personal de cada coordinación estatal de dos formas:
+
+Gabinete: se utiliza imágenes de satélite, vista calle y algunos aplicativos para ajustar al frente y captar todos los atributos de las referencias, también se captan referencias que no se tienen dentro de la carga de trabajo; si no es posible captar algunos atributos porque no existe vista calle, estas se etiquetan para campo. 
+
+Campo: con las referencias etiquetadas para campo se hace la planeación para hacer verificaciones en campo; estas referencias se cargan en una geodatabase (GDB) y se actualizan por medio de Dispositivo de Cómputo Móvil (DCM) utilizando el software QGIS y algunos aplicativos, además si durante el recorrido identifican referencias que no tienen en la carga de trabajo la captan. 
+
+Los atributos de tipo y nombre del Asentamiento Humano se asignaron de la capa asentamientos humanos y el atributo código postal se asignó de la capa de códigos postales del Servicio Postal Mexicano.
+
+3. Integración: concluida la etapa de edición se realizó, por cada entidad federativa, la integración de cada uno de los elementos que conforman las referencias de predio o inmuebles, asegurando que la información cumpliera con la estructura especificada en el protocolo de entrega.
+
+4. Publicación: después de la integración se realizó la entrega del producto final al área correspondiente para su difusión, publicación y disposición de los usuarios finales.
+
+          6.3.2.1 Descripción: Tecnología empleada:
+Software: sistemas de Información Geográfica (ArcGIS 10.8.1 y QGIS 3.16), Windows 10, con aplicativos propios en Python para la edición y validación de las referencias.
+Hardware: computadora Personal con Procesador Intel CORE a 3.6 ghz y Dispositivos de Cómputo Móvil (tabletas y phablet).
+
+          6.3.2.1 Descripción: Control de Calidad
+
+Criterio: consistencia lógica. Subcriterio: consistencia topológica. Ámbito de la revisión: la capa de referencia de predio o inmueble (ne). Tipo de Inspección: completa. Explicación de la revisión: por medios semiautomatizados se verificó que los objetos espaciales cumplieran con las reglas topológicas y con las relaciones lógicas (conexión) establecidas en el diccionario de datos de localidades amanzanadas y números exteriores para la intersección con el objeto frente de manzana. Indicador Aplicado: revisión y/o corrección de consistencia topológica. Qué expresa el indicador: con valor 1 informa que se tiene que revisar por la existencia de una inconsistencia topológica en la referencia puntual del predio o inmueble. Con valor 0 informa que se resolvió la inconsistencia topológica. La revisión detecta situaciones inconsistentes con las reglas topológicas establecidas para el producto geográfico en el diccionario de datos de localidades amanzanadas y números exteriores. Estos errores son resultado de intersecciones incorrectas entre las referencias geográficas puntuales y la línea del frente de manzana, y cada uno requiere efectuar una corrección. Algunos casos requirieron una atención especial. Resultado: 1
+Nivel de conformidad de calidad: Se aplicó una tolerancia de error de 0.05 metros. Resultados de la revisión: El 100% de las referencias de predio o inmueble intersectan con el objeto frente de manzana. Evaluadores: Dirección General Adjunta de Información Geográfica para la Administración del Territorio -Departamento de Vinculación de Información Cartográfica Urbana y Rural (INEGI). Observaciones: las inconsistencias se enviaron al personal de las áreas involucradas de la Coordinaciones Estatales del INEGI para su pronta solución.
+
+          6.3.2.1 Descripción: Control de Calidad
+
+Criterio: completitud. Subcriterio: omisión. Ámbito de la Revisión: Los atributos de las referencias de predio o inmueble que tuvieron alguna actualización o son nuevas. Inspección: completa. Explicación de la Revisión: mediante aplicaciones informáticas se detectan inconsistencias de omisión de información, confrontando los archivos tabulares de la referencia de predio o inmueble contra el objeto frente de manzana para complementar y/o actualizar los datos de los atributos. Nivel de Conformidad de Calidad: cero tolerancias en completitud tabular. La información debía estar completa al 100% sin datos faltantes. Resultados de la Revisión: aproximadamente 10% de inconsistencias. Evaluadores: Dirección General Adjunta de Información Geográfica para la Administración del Territorio -Departamento de Vinculación de Información Cartográfica Urbana y Rural (INEGI). Observaciones: al encontrarse algunas inconsistencias de completitud, estas fueron solventadas con las áreas involucradas para su pronta solución.
+
+     6.3.3 Fuente:
+
+          6.3.3.1 Descripción: Fuente 1: Marco Geoestadístico, diciembre 2022.  
+Fuente 2: Georreferenciación de Domicilios 2010 a 2016, aporta un 78% de referencias geográficas.  
+Fuente 3: Cartografía Urbana y Rural 2017 a 2023, aporta un 11% de referencias geográficas. 
+Fuente 4: Censos Económicos 2019, aporta un 10% de referencias geográficas. 
+Fuente 5: Censo de Población y Vivienda 2020, aporta un 1% de referencias geográficas. 
+Fuente 6: Delimitación de colonias y otros asentamientos humanos 2022 proporcionada por la Dirección del Marco Geoestadístico y Límites, de la cual únicamente se utilizan los valores de información de clave, tipo y nombre del asentamiento humano en los atributos de la capa de referencia de predio o inmueble (números exteriores). 
+Fuente 7: Polígonos de la limitación de códigos postales del Servicio Postal México 2022, de la cual únicamente de utiliza el valor del código postal en los atributos de la capa de referencia de predio o inmueble (números exteriores).
+Fuente 8: Imágenes satelitales en color o escala de grises, con resolución de 50 cm. Secure Watch, Basemap ESRI y Google Maps, fecha variable.
+
+SECCIÓN 7. Entidades y atributos:
+
+7.1 Descripción general de entidades y atributos: Para este producto, se representa la siguiente información: 
+
+- Polígonos de Áreas Geoestadísticas Básicas rurales y urbanas que representan la delimitación de los AGEB que integran un Municipio.
+
+- Polígonos de localidades representa el contorno del área amanzanada de las localidades urbanas y rurales. 
+
+- Polígonos de Manzanas que representan la delimitación por vialidades y rasgos. 
+
+- Líneas de Frentes de manzanas que representan el lado de manzana, configurada por el nombre y tipo de vialidad que se sitúa frente a esta o el rasgo que lo delimita. 
+
+- Línea de Vialidades que representan la superficie del terreno destinada para el tránsito vehicular y/o peatonal.
+
+- Puntos de Referencias de predio o inmueble que representan la ubicación e identificación de un predio o inmueble y contiene el número exterior. 
+
+Dominio de valores:
+
+AMBITO: clasificación que se le da al objeto espacial en función del número de habitantes con el que cuenta.
+CP: número constituido por cinco dígitos. 
+CVEASEN: clave compuesta de un número consecutivo de cuatro dígitos. 
+CVEFT: clave compuesta por 3 dígitos que identifican al objeto espacial.  
+CVEGEO: clave compuesta por 13 caracteres; dos para la clave del AGEE, tres para la clave AGEM, cuatro para la clave de localidad geoestadística, y tres para la clave de AGEB y un número del 0 al 9 o la letra A, correspondiente al dígito verificador.
+CVEGEO: clave compuesta por 16 caracteres; dos para la clave del AGEE, tres para la clave AGEM, cuatro para la clave de localidad geoestadística, tres para la clave de AGEB y un número del 0 al 9 o la letra A correspondiente al dígito verificador, más tres dígitos que identifican la clave de manzana.
+CVEGEO: clave compuesta por 19 caracteres; dos para la clave del AGEE, tres para la clave del AGEM, cuatro para la clave de la localidad geoestadística, tres para el número consecutivo de AGEB y un número del 0 al 9 o la letra A, correspondiente al dígito verificador y se asigna a cada una de las Áreas Geoestadísticas Básicas de un mismo AGEM, tres dígitos para la clave de la manzana, tres dígitos que identifican al Frente de Manzana por manzana.  
+CVEGEO: clave compuesta por 9 dígitos; dos para la clave del AGEE, tres para la clave AGEM o demarcación territorial y cuatro para la clave de localidad geoestadística.
+CVEREF1: se asigna la clave del frente de manzana a la referencia que está situada al lado derecho. Compuesta por 3 dígitos.  
+CVEREF2: se asigna la clave del frente de manzana a la referencia que está situada al lado izquierdo. Compuesta por 3 dígitos.  
+CVEVIAL: clave compuesta por 5 dígitos que identifican a esta clave, la cual se asigna a la vialidad principal que define al objeto espacial.  
+CVEVIAL: clave compuesto por 5 dígitos que identifican la clave de vialidad o rasgo. 
+CVEVIAL1: se asigna la clave de la vialidad o del rasgo que está situada al lado derecho del frente de manzana. Compuesto por 5 dígitos. 
+CVEVIAL2: se asigna la clave de la vialidad o del rasgo que está situada al lado izquierdo del frente de manzana. Compuesto por 5 dígitos. 
+FECHAACT: fecha en que se capta o actualiza la información del objeto espacial. 
+IDENTIFICA: código que identifica de manera única cada ocurrencia del objeto espacial por localidad geoestadística.
+IDNEXFT: número consecutivo que identifica de manera única a cada referencia geográfica por frente de manzana. 
+NOM_ENT: es el sustantivo propio que identifica a la entidad federativa. 
+NOM_LOC: es el sustantivo propio que identifica a la localidad. 
+NOM_MUN: es el sustantivo propio con el cual se identifica al Municipio o a la Demarcación Territorial para el caso de la Ciudad de México. 
+NOMASEN: es el sustantivo propio que identifica el asentamiento humano. 
+NOMBRE: es el sustantivo propio con el cual se conoce al objeto espacial. 
+NOMPROY: fuente generadora de la información.  
+NOMREF1: es el sustantivo propio con el cual se conoce a la referencia situada al lado derecho del frente de manzana.  
+NOMREF2: es el sustantivo propio con el cual se conoce a la referencia situada al lado izquierdo del frente de manzana.  
+NOMVIAL: es el sustantivo propio con el cual se conoce a la vialidad o rasgo.  
+NOMVIAL: es el sustantivo propio que identifica al objeto espacial. 
+NUMEXT: caracteres alfanuméricos que identifican a un predio o inmueble en una vialidad.
+SENTIDO: circulación o desplazamientos que siguen los vehículos sobre una vialidad. 
+TIPOASEN: clasificación que se da en función de lo determinado por la autoridad local. 
+TIPOVIAL: clasificación que se da a la vialidad o rasgo, en función de lo determinado por la autoridad local. 
+TIPOVIAL: clasificación que se da a la vialidad, en función de lo determinado por la autoridad local. 
+TIPOVR1: clasificación que se da a la vialidad o al rasgo con base en la relación de los correspondientes anexos.  
+TIPOVR2: clasificación que se da a la vialidad o al rasgo con base en la relación de los correspondientes anexos.
+7.2 Cita del detalle de entidades y atributos: 7.2 Cita del detalle de entidades y atributos: En el documento del Diccionario de datos de localidades amanzanadas y números exteriores se describe a detalle la información técnica contenida en el conjunto de datos.
+
+CAPA BASE:
+
+L Localidad 1, A AGEB 0, M Manzana 19, FM Frente de manzana 79, V Vialidad 16.
+
+NÚMERO EXTERIOR:
+
+NE Número Exterior 142.
+
+SECCIÓN 8. Distribución:
+
+8.1 Restricciones de acceso: 8. Acceso al público a través de internet y los Centros de Información del Instituto Nacional de Estadística y Geografía - INEGI.
+
+8.2 Restricciones de uso: 1. Copyright (derechos de autor): Derecho exclusivo de publicación, producción, o venta de los derechos de una obra literaria, dramática, musical, artística, que contempla la ley de la materia, para un periodo específico de tiempo de un autor, compositor o artista.
+
+8.3 Responsabilidad de distribución: 
+
+8.4 Formato de distribución:
+
+     8.4.1 Nombre del formato:  Shape
+
+     8.4.2 Versión del formato:  ArcMap 10.8.1 y QGIS  3.16.2-Hannover 
+
+
+SECCIÓN 9. Información del contacto para los metadatos:
+
+9.1 Nombre del estándar de metadatos: ISO 19115 Información Geográfica - Metadatos (Norma Técnica para Metadatos).
+
+9.2 Versión de la norma de metadatos: 2003 (1.0).
+
+9.3 Idioma de los Metadatos: ES - Español.
+
+9.4 Punto de contacto para los Metadatos: 
+
+     9.4.1 Nombre de la persona de contacto:  Lic. Rafael Arrioja Urzúa.
+
+     9.4.2 Nombre de la organización:  Instituto Nacional de Estadística y Geografía - INEGI. 
+
+     9.4.3 Puesto del contacto:  Jefe del Departamento de Administración de Metadatos.
+
+     9.4.4 Teléfono: 449 910 5300 Ext. 31 1750 y 31 5631.
+
+     9.4.5 Fax: 
+
+     9.4.6 Dirección: Avenida Héroe de Nacozari Sur 2301. Fraccionamiento Jardines del Parque, C.P. 20276. Aguascalientes, Aguascalientes. Aguascalientes. Entre Calle INEGI, Avenida del Lago y Avenida Paseo de las Garzas.
+
+     9.4.7 Ciudad: Aguascalientes.
+
+     9.4.8 Área administrativa: Aguascalientes.
+
+     9.4.9 Código postal: 20276
+
+     9.4.10 País: México.
+
+     9.4.11 Dirección de correo electrónico del contacto: rafael.arrioja@inegi.org.mx
+
+     9.4.12 Rol:   7. Punto de contacto: Parte que puede ser contactada para informarse sobre el recurso o adquisición del mismo.
+
+9.5 Fecha de los metadatos: 2023-10-30
+
+9.6 Conjunto de caracteres:   6. 8859parte1: ISO/IEC 8859-1, Tecnologías de la Información - Conjuntos de caracteres gráficos codificados de 8-bit por byte - Parte 1: Alfabeto Latino No.1.
+

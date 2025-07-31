@@ -1,0 +1,81 @@
+﻿CONTENIDO
+
+
+El producto INFORMACIÓN VECTORIAL DE LOCALIDADES AMANZANADAS Y NÚMEROS EXTERIORES 2023, está conformado por archivos digitales en formato SHAPE, este consta de 10,681 localidades urbanas y rurales amanzanadas de prioridad, de las cuales 4,310 son localidades urbanas y 6,371 son localidades rurales amanzanadas y en su conjunto suman un total de 1,782,425 manzanas, en estas están georreferenciadas más de 33.6 millones de números exteriores.
+
+La descarga del producto INFORMACIÓN VECTORIAL DE LOCALIDADES AMANZANADAS Y NÚMEROS EXTERIORES 2023, se compone de tres carpetas: 
+
+• diccionario_de_datos: contiene documentación del producto y el diccionario de datos.
+
+• conjunto_de_datos: contiene las carpetas con los archivos vectoriales por localidad.
+
+• metadato: contiene el metadato de cada localidad en formato HTML, XML y TXT.
+
+Nombre y contenido de los archivos vectoriales por localidad
+
+Los nombres de los archivos se conforman con las claves alfanuméricas del Área Geoestadística Estatal, Área Geoestadística Municipal y Localidad Geoestadística. Los sufijos son descriptivos del contenido del archivo donde:
+
+ee	corresponde a la clave alfanumérica del Área Geoestadística Estatal: 01…32
+mmm	corresponde a la clave alfanumérica del Área Geoestadística Municipal: 001…999 
+llll	corresponde a la clave alfanumérica de la Localidad Geoestadística: 0001…9999 
+
+eemmmlllla	   Área Geoestadística Básica
+eemmmllllfm 	   Frente de manzana
+eemmmlllll	   Localidad Geoestadística
+eemmmllllm	   Manzana Geoestadística
+eemmmllllne	   Referencia de predio o inmueble (Número Exterior)
+eemmmllllv	   Vialidad
+
+Cabe aclarar que las capas con sufijo l, a, m, fm y v provienen de la información del Marco Geoestadístico, diciembre 2022.
+
+Formato: SHAPE
+
+Características técnicas de la información
+
+Parámetros:
+
+Proyección: Cónica Conforme de Lambert (CCL)
+Dátum: ITRF2008
+Elipsoide: GRS80
+Meridiano origen: 102° 00’ 00’’ W
+Latitud origen: 12° 00’ 00’’ N
+Primer paralelo estándar: 17° 30’ N
+Segundo paralelo estándar: 29° 30’ N
+Falso Este: 2 500 000
+Falso Norte: 0
+
+Fuente
+
+La base cartográfica utilizada corresponde al Marco Geoestadístico, diciembre 2022.
+
+El software utilizado para la digitalización de la cartografía y generación de los archivos SHAPE fue ArcGis en su versión 10.8.1.
+
+Capas de información y geometría
+
+Los conjuntos de datos vectoriales que conforman el producto son los siguientes:  
+
+Archivo		 Capa	 Elemento							Tipo de Geometría
+
+eemmmlllla	 a	 Área Geoestadística Básica					Área
+eemmmllllfm	 fm	 Frente de manzana						Línea
+eemmmlllll	 l	 Localidad Geoestadística					Área
+eemmmllllm	 m	 Manzana Geoestadística						Área
+eemmmllllne	 ne	 Referencia de predio o inmueble (Número Exterior)		Punto
+eemmmllllv	 v	 Vialidad 							Línea
+
+
+Estructura
+
+
+eemmmlllla	 		     Área Geoestadística Básica	
+CAMPO					DESCRIPCIÓNIDENTIFICA				IdentificadorCVEGEO					Clave Geoestadística
+eemmmllllfm		 	     Frente de manzana
+CAMPO					DESCRIPCIÓNIDENTIFICA 				Identificador CVEGEO 					Clave Geoestadística CVEFT 					Clave Frente de Manzana CVEVIAL 				Clave de Vialidad TIPOVIAL 				Tipo de Vialidad NOMVIAL 				Nombre de Vialidad CVEVIAL1 				Referencia 1 CVEREF1 				Referencia 1 Clave Frente TIPOVR1 				Referencia 1 Tipo NOMREF1 				Referencia 1 Nombre CVEVIAL2 				Referencia 2 CVEREF2 				Referencia 2 Clave Frente TIPOVR2 				Referencia 2 Tipo NOMREF2 				Referencia 2 Nombre CVEASEN 				Clave de Asentamiento TIPOASEN 				Tipo de Asentamiento NOMASEN 				Nombre de Asentamiento CP 					Código Postal 
+eemmmlllll			      Localidad Geoestadística
+CAMPO					DESCRIPCIÓNIDENTIFICA 				Identificador AMBITO 					Ámbito CVEGEO 					Clave Geoestadística NOMBRE 					Nombre 
+eemmmllllm			      Manzana Geoestadística
+CAMPO					DESCRIPCIÓNIDENTIFICA 				Identificador CVEGEO 					Clave Geoestadística 
+eemmmllllne			      Referencia de predio o inmueble (Número Exterior)
+CAMPO					DESCRIPCIÓNIDENTIFICA 				Identificador CVEVIAL 				Clave de Vialidad TIPOVIAL 				Tipo de Vialidad NOMVIAL 				Nombre de Vialidad NUMEXT 					Número Exterior CVEASEN 				Clave de Asentamiento TIPOASEN				Tipo de Asentamiento NOMASEN 				Nombre de Asentamiento CP 					Código Postal NOM_LOC 				Nombre de Localidad NOM_MUN 				Nombre de Municipio NOM_ENT 				Nombre de Entidad Federativa CVEVIAL1 				Referencia 1 CVEREF1 				Referencia 1 Clave Frente TIPOVR1 				Referencia 1 Tipo NOMREF1 				Referencia 1 Nombre CVEVIAL2 				Referencia 2 CVEREF2 				Referencia 2 Clave Frente TIPOVR2 				Referencia 2 Tipo NOMREF2 				Referencia 2 Nombre NOMPROY 				Nombre del Proyecto FECHAACT 				Fecha de Actualización IDNEXFT 				Identificador Único por Frente de Manzana CVEGEO 					Clave Geoestadística de Manzana CVEFT 					Clave Frente de Manzana 
+eemmmllllv			      Vialidad
+CAMPO					DESCRIPCIÓNIDENTIFICA 				Identificador CVEVIAL 				Clave de Vialidad TIPOVIAL 				Tipo NOMVIAL 				NombreSENTIDO 				Sentido de la Vialidad
