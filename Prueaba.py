@@ -485,7 +485,7 @@ class CopernicusDownloader:
 class SentinelDownloaderGUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("Descargador de Imágenes Sentinel-2 (Copernicus Data Space)")
+        self.root.title("Interfaz de procesamiento de imagenes satelitales")
         self.root.geometry("800x700")
         
         self.downloader = None

@@ -36,7 +36,7 @@ def recortar_raster_con_shapefile(raster_path, shapefile_path, output_path):
 
     print(f"✓ NDVI recortado guardado en: {output_path}")
 
-def recortar_ndvi_con_tlaxcala(zip_shapefile, ndvi_path, salida_path="NDVI_TLAXCALA.tif"):
+def recortar_ndvi_con_tlaxcala(zip_shapefile, ndvi_path, salida_path="NDVI.tif"):
     tmp_dir = "shapefile_tmp"
     descomprimir_shapefile(zip_shapefile, tmp_dir)
 
